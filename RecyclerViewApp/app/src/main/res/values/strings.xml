@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewApp</string>
+    <string name="textview">TextView</string>
+    <string name="call">Call</string>
+</resources>
